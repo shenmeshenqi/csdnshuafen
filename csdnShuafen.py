@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.remote import webelement
 import time
 i=0;
-path="F:\pythonjiaoben\chromedriver_win32\chromedriver.exe"
+path="./"
 url="https://blog.csdn.net/qq_26024867/article/details/81783370"
 options=webdriver.ChromeOptions()
 
